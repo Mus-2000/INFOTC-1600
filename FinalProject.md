@@ -4,7 +4,7 @@
 
 ## Things
 
-I'm a student at _Mizzou_
+I'm a student at *Mizzou*
 
 
 
