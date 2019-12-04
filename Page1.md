@@ -4,9 +4,9 @@
 
 ## My Life
 
-<p>Im 19 years old and I'm a student at _Mizzou_ I like to play soccer, hangout with friends, and listen to music. In my freetime I either play videogames, partake in physical activity or hangout with friends. I enjoy taking walks on the beach at midnight.</p>
+<p>Im 19 years old and I'm a student at Mizzou I like to play soccer, hangout with friends, and listen to music. In my freetime I either play videogames, partake in physical activity or hangout with friends. I enjoy taking walks on the beach at midnight.</p>
 
-
+*Mustafa Al-Mahroos*
 
 **These are some random pictures that I thought looked cool** 
 
