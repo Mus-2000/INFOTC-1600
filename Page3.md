@@ -7,3 +7,9 @@
 [https://microsoft.com](https://microsoft.com)
 
 <https://microsoft.com>
+
+<Missouri>[https://missouri.edu]
+  
+[Missouri](https://missouri.edu)
+<https://missouri.edu>[Missouri]
+*Missouri*(missouri.edu)
