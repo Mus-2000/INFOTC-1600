@@ -2,9 +2,9 @@
 
 # My Name is Mustafa Al-Mahroos
 
-## Things
+## My Life
 
-I'm a student at *Mizzou*
+Im 19 years old and I'm a student at *Mizzou*.
 
 
 
