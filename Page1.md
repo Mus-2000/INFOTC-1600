@@ -25,16 +25,16 @@ You can find pictures like these using Google which linked down belows this sent
 - - -
 
 - - -
+These are my hobbies
+* Vidoegames
 
-* Bullet 1
+* Physical Activity
 
-* Bullet 2
+  * Soccer
 
-  * Bullet 2a
+  * Weightlifting
 
-  * Bullet 2b
-
-* Bullet 3
+* Listening to music
 
 <!-- OL -->
 
