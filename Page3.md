@@ -9,6 +9,5 @@
 <https://microsoft.com>
 
 
-<Missouri>[https://missouri.edu]
-  
+[Missouri](https://missouri.edu)
 
