@@ -4,3 +4,4 @@
 
 [news : "News Reader"](/news/reader.php)
 
+[https://microsoft.com](https://microsoft.com)
