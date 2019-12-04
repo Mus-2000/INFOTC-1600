@@ -10,7 +10,7 @@
 
 **These are some random pictures that I thought looked cool** 
 
-
+You can find pictures like these using Google which linked down belows this sentence
 
 [Google](https://www.google.com/)
 
