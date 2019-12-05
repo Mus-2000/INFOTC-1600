@@ -8,6 +8,10 @@ Im 19 years old and I'm a student at Mizzou I like to play soccer, hangout with 
 
 In my freetime I either play videogames, partake in physical activity or hangout with friends. I enjoy taking walks on the beach at midnight.
 
+The sky above the port was the color of television, tuned to a dead channel.
+
+It was a bright cold day in April, and the clocks were striking thirteen.
+
 *Mustafa Al-Mahroos*
 
 **These are some random pictures that I thought looked cool** 
