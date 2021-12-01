@@ -1,5 +1,5 @@
 # INFOTC 1600 Final Project
-Recording audio in Logic Pro x
+Recording audio in Logic Pro X
 
 By Mustafa Al-Mahroos
 
