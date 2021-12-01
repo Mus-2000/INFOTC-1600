@@ -1,23 +1,15 @@
-**HEY YOU MADE IT TO THE THIRD PAGE**
+**Ending a recording session in Logic Pro X**
 
 
 
-[https://microsoft.com](https://microsoft.com)
-
-<https://microsoft.com>
 
 
-[Missouri](https://missouri.edu)
+[Starting up Logic Pro X](https://github.com/Mus-2000/Infotc1000/blob/master/Page1.md)
 
-`huh`
+[Starting a recording session in Logic Pro X](https://github.com/Mus-2000/Infotc1000/blob/master/Page2.md)
 
-[Homepage](https://github.com/Mus-2000/Infotc1000)
+[Ending a recording session in Logic Pro X](https://github.com/Mus-2000/Infotc1000/blob/master/Page3.md)
 
-[First Markdown Page](https://github.com/Mus-2000/Infotc1000/blob/master/Page1.md)
+[Adding effects to vocal tracks in Logic Pro X](https://github.com/Mus-2000/Infotc1000/blob/master/Page4.md)
 
-[Second Markdown Page](https://github.com/Mus-2000/Infotc1000/blob/master/Page2.md)
-
-
-[Fourth Markdown Page](https://github.com/Mus-2000/Infotc1000/blob/master/Page4.md)
-
-[Fifth Markdown Page](https://github.com/Mus-2000/Infotc1000/blob/master/Page5.md)
+[Exporting audio in Logic Pro X](https://github.com/Mus-2000/Infotc1000/blob/master/Page5.md)
