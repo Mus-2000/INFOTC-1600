@@ -11,8 +11,8 @@ The tutorial is meant for musicians, content creators on Youtube, or anyone that
 
 [Starting a recording session in Logic Pro X](https://github.com/Mus-2000/Infotc1000/blob/master/Page2.md)
 
-[Third Markdown Page](https://github.com/Mus-2000/Infotc1000/blob/master/Page3.md)
+[Ending a recording session in Logic Pro X](https://github.com/Mus-2000/Infotc1000/blob/master/Page3.md)
 
-[Fourth Markdown Page](https://github.com/Mus-2000/Infotc1000/blob/master/Page4.md)
+[Adding effects to vocal tracks in Logic Pro X](https://github.com/Mus-2000/Infotc1000/blob/master/Page4.md)
 
-[Fifth Markdown Page](https://github.com/Mus-2000/Infotc1000/blob/master/Page5.md)
+[Exporting audio in Logic Pro X](https://github.com/Mus-2000/Infotc1000/blob/master/Page5.md)
