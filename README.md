@@ -4,7 +4,7 @@ By Mustafa Al-Mahroos
 This tutorial will show you how to record audio in Logic Pro X and how manipulate with the stock effects included with the program.
 The tutorial is meant for musicians, content creators on Youtube, or anyone that is looking to create any form of media including audio files.
 
-[First Markdown Page](https://github.com/Mus-2000/Infotc1000/blob/master/Page1.md)
+[Starting up Logic Pro X](https://github.com/Mus-2000/Infotc1000/blob/master/Page1.md)
 
 [Second Markdown Page](https://github.com/Mus-2000/Infotc1000/blob/master/Page2.md)
 
