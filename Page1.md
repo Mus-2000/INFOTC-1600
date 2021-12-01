@@ -5,7 +5,6 @@
   When you first start up Logic Pro X, this is the screen that will come up:
   
   
-  ![image](/Users/mustafamahroos/Desktop/logicstart.jpg)
   
   ![logic pro x start up screen ](/Users/mustafamahroos/Desktop/logicstart.jpg "Logic Pro X start up screen")
 
