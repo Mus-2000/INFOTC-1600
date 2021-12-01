@@ -6,6 +6,8 @@
   
   
   ![image](/Users/mustafamahroos/Desktop/logicstart.jpg)
+  
+  ![logic pro x ](/Users/mustafamahroos/Desktop/logicstart.jpg "Text to show on mouseover")
 
 
 
