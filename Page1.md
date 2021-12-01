@@ -2,8 +2,10 @@
 
 # Starting up Logic Pro X
 
-
-
+  When you first start up Logic Pro X, this is the screen that will come up:
+  
+  
+  ![image](files/Users/Mustafa Mahroos/Desktop/logicstart.jpg)
 
 
 
