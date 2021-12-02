@@ -6,7 +6,9 @@
   
   
   
-  ![logic pro x start up screen ](/Users/mustafamahroos/Desktop/logicstart.jpg "Logic Pro X start up screen")
+  
+  
+![logic start up screen](https://user-images.githubusercontent.com/54383601/144340294-eecf9230-e94a-4574-b802-90b6b41d8eb6.jpg)
 
 
 
