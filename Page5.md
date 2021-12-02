@@ -1,6 +1,7 @@
 **Exporting audio in Logic Pro X**
 
 
+After recording and adding effects to your audio recording, the final step is to export it.
 
 [Starting up Logic Pro X](https://github.com/Mus-2000/Infotc1000/blob/master/Page1.md)
 
