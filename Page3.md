@@ -1,6 +1,9 @@
 **Ending a recording session in Logic Pro X**
 
 
+After you record some audio, the screen should look something like this
+
+<img width="1440" alt="Screen Shot 2021-12-01 at 7 32 41 PM" src="https://user-images.githubusercontent.com/54383601/144341329-ae0645c2-1bbb-41ef-9633-df5e17dfb3e6.png">
 
 
 
