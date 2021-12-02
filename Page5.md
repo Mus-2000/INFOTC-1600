@@ -17,6 +17,10 @@ this is what the screen should look like
 
 <img width="1440" alt="Screen Shot 2021-12-01 at 8 08 21 PM" src="https://user-images.githubusercontent.com/54383601/144344595-bf5a097f-3fae-4e61-b09a-da86cb5110b7.png">
 
+Select MP3 if you want an MP3 file and select PCM if you want a wav file.
+
+The file will populate in the location you selected.
+
 
 
 [Starting up Logic Pro X](https://github.com/Mus-2000/Infotc1000/blob/master/Page1.md)
