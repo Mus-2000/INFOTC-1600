@@ -14,6 +14,8 @@ If you are wanting to record audio into the program, you must select the option 
 
 the number of tracks you want can be selected at the bottom, dont worry you can always add more later. 
 
+Make sure that the ouput is select to your correct intended output, most likely laptop speakers or in other cases an audio interface
+
 
 
 
